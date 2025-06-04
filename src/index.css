@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f1eae2;
+  color: #333;
+  line-height: 1.6;
+  padding: 20px;
+}
+
+a {
+  color: #0077cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.tache-list {
+  margin-top: 20px;
+  list-style: none;
+  padding: 0;
+}
+
+.tache-list li {
+  background: #fff;
+  border-radius: 8px;
+  margin-bottom: 12px;
+  padding: 16px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.back-link {
+  display: inline-block;
+  margin-top: 20px;
+  color: #0077cc;
+}
+
+.tache-card {
+  background: #fff;
+  border: 1px solid #e5e5e5;
+  border-radius: 20px;
+  padding: 24px;
+  margin-bottom: 16px;
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.08);
+}
+

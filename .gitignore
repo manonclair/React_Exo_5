@@ -1,0 +1,17 @@
+# Ne pas inclure les dépendances
+node_modules
+
+# Ne pas inclure les fichiers de build
+dist
+build
+
+# Ne pas inclure les fichiers de config ou d’environnement locaux
+.env
+
+# Cache MacOS
+.DS_Store
+
+# Logs
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
