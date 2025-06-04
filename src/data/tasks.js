@@ -1,5 +1,5 @@
 export const tasks = [
-  { id: "1", title: "Faire les courses", description: "Acheter du lait, du pain et des œufs." },
-  { id: "2", title: "Coder un projet React", description: "Travailler sur l'exercice React avec pnpm." },
-  { id: "3", title: "Lire un livre", description: "Lire 30 pages du roman actuel." }
+  { id: "1", title: "Faire un semi marathon", description: "le 5 octobre à Lyon." },
+  { id: "2", title: "réussir l'année ", description: "en cours..." },
+  { id: "3", title: "promener mon chien", description: "balade en haute savoie" }
 ];
